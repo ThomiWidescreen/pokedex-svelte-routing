@@ -2,6 +2,8 @@
 
 Using Svelte, Svelte Routing and [PokeAPI](https://pokeapi.co/)
 
+Stilized with TalwindCSS
+
 # How to run
 
 Install all dependecies and then run
