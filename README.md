@@ -18,4 +18,4 @@ To get static files:
 npm run build
 ```
 
-Or go to https://svelte-routes-pokedex.netlify.app/
+Or go to https://thomiwidescreen-svelte-pokedex.netlify.app/
